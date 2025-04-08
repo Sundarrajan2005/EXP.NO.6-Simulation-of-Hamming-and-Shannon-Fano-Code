@@ -8,6 +8,7 @@ To compute the Average Codeword Length, Entropy, Efficiency, Redundancy, and Var
 python IDE with Numpy and Scipy.
 
 ## Program:
+```
 import numpy as np
 import math 
 L  = 0
@@ -47,7 +48,7 @@ print(f"Entropy is : {hs}")
 print(f"Efficiency is : {eff*100} %")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/443befa9-d024-4a99-8a00-599b433aca85)
